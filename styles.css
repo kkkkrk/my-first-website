@@ -1,3 +1,19 @@
+.color-primary {
+  color: blueviolet;
+}
+.font-50 {
+  font-size: 50px;
+}
 h1 {
-  text-decoration: underline;
+  color: darkgoldenrod;
+}
+.option {
+  color: seagreen;
+  font-size: 60px;
+}
+.tb td {
+  border: 1px solid #000;
+  font-size: 14px;
+  font-weight: bold;
+  color: red;
 }
